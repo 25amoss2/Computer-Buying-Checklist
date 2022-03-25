@@ -1,0 +1,15 @@
+
+  h1{
+    color: #B762C1;
+  }
+  h2{
+    color:#8946A6;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    height: 0;
+    border-color:#FFCDDD;
+    width:30%;
+    border-width:7px;
+  }
